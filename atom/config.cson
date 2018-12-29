@@ -1,0 +1,42 @@
+"*":
+  "atom-beautify":
+    css:
+      indent_size: 4
+    general:
+      _analyticsUserId: "b89cf2d0-b967-4ae0-8987-57f06e13d9c3"
+  "atom-ide-ui":
+    use: {}
+  "atom-package-deps":
+    ignored: []
+  "atom-typescript": {}
+  "autocomplete-python":
+    useKite: false
+  core:
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "linter"
+      "atom-typescript"
+      "ide-typescript"
+      "markdown-preview"
+    ]
+    openEmptyEditorOnStart: false
+    projectHome: "~/projects"
+    telemetryConsent: "limited"
+  editor:
+    showIndentGuide: true
+    showInvisibles: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "67adb57d-5ebc-de18-6754-5e6fcb1b1d49"
+  "ide-typescript":
+    diagnosticsEnabled: false
+  "linter-ui-default":
+    panelHeight: 289
+  "markdown-preview-plus":
+    useGitHubStyle: true
+  teletype:
+    askBeforeJoiningPortalViaExternalApp: false
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false
