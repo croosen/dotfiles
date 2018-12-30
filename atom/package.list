@@ -10,7 +10,6 @@ busy-signal@1.4.3
 file-icons@2.1.24
 haskell-ghc-mod@2.2.4
 haskell-grammar@0.4.0
-html-templates@0.0.0
 ide-haskell@2.3.1
 ide-haskell-cabal@2.2.0
 ide-haskell-repl@0.8.1
